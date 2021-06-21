@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelefonRehberi", "TelefonRehberi\TelefonRehberi.csproj", "{943069A1-4F42-43AF-A760-78E536B9477C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoProject", "ToDoProject\ToDoProject.csproj", "{BCEADBEB-86C6-4A8A-8744-2B28F380A766}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoProject", "ToDoProject\ToDoProject.csproj", "{BCEADBEB-86C6-4A8A-8744-2B28F380A766}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

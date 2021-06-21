@@ -1,0 +1,16 @@
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\bin\Debug\net5.0\ToDoProject.exe
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\bin\Debug\net5.0\ToDoProject.deps.json
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\bin\Debug\net5.0\ToDoProject.runtimeconfig.json
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\bin\Debug\net5.0\ToDoProject.runtimeconfig.dev.json
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\bin\Debug\net5.0\ToDoProject.dll
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\bin\Debug\net5.0\ref\ToDoProject.dll
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\bin\Debug\net5.0\ToDoProject.pdb
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\obj\Debug\net5.0\ToDoProject.csproj.AssemblyReference.cache
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\obj\Debug\net5.0\ToDoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\obj\Debug\net5.0\ToDoProject.AssemblyInfoInputs.cache
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\obj\Debug\net5.0\ToDoProject.AssemblyInfo.cs
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\obj\Debug\net5.0\ToDoProject.csproj.CoreCompileInputs.cache
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\obj\Debug\net5.0\ToDoProject.dll
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\obj\Debug\net5.0\ref\ToDoProject.dll
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\obj\Debug\net5.0\ToDoProject.pdb
+C:\Users\Mwin10\source\repos\csharp\ToDoProject\obj\Debug\net5.0\ToDoProject.genruntimeconfig.cache
